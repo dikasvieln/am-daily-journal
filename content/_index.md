@@ -6,7 +6,7 @@ sections:
   title: Intro
   section_id: intro
   component: intro.html
-  content: Hello, Welcome to my new daily journal. Feel free to read
+  content: Hello, Welcome to my new daily journal. Feel free to read.
   actions:
   - label: Learn More
     url: "/about"
