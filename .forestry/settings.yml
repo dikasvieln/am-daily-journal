@@ -12,7 +12,6 @@ sections:
 - type: document
   path: data/social.json
   label: Social Links
-  read_only: false
   templates:
   - social
 - type: document
@@ -53,7 +52,7 @@ sections:
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
