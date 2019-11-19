@@ -6,7 +6,8 @@ sections:
   title: Intro
   section_id: intro
   component: intro.html
-  content: Hello, Welcome to my new daily journal. Feel free to read.
+  content: Hello, Welcome to my new journal. Feel free to read. My lifestyle photography
+    and day to day daily life.
   actions:
   - label: Learn More
     url: "/about"
@@ -14,5 +15,6 @@ layout: home
 menu:
   main:
     weight: 1
+draft: true
 
 ---
