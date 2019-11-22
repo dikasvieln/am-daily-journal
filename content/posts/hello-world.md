@@ -1,9 +1,9 @@
 +++
 content_img_path = ""
 date = 2019-11-21T17:00:00Z
-excerpt = ""
+excerpt = "First post of my daily journal"
 layout = "post"
-subtitle = "My First Book review"
+subtitle = "My First Book Review"
 thumb_img_path = "/images/beacon-house-wallpaper-home-depot.jpg"
 title = "Hello World"
 
