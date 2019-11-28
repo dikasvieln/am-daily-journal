@@ -7,6 +7,7 @@ menu:
   main:
     name: About
     weight: 2
+draft: true
 
 ---
 **Aulia Mahardika** is a FE and QA from Bekasi, Indonesia. After graduating from The College of Binus University with a degree in Math & IT, he worked for some agency, news media, and Startup.
