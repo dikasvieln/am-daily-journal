@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/basic-tips-to-mountain-biking.md
 - content/posts/basic-rules-for-walking-in-the-mountains.md
 - content/posts/what-isphotography.md
 - content/posts/relax-in-nature.md
