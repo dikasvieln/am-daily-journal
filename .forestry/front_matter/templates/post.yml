@@ -37,12 +37,13 @@ fields:
   config:
     required: true
 pages:
-- content/posts/basic-tips-to-mountain-biking.md
 - content/posts/basic-rules-for-walking-in-the-mountains.md
-- content/posts/what-isphotography.md
-- content/posts/relax-in-nature.md
-- content/posts/hello-world.md
-- content/posts/working-from-home.md
-- content/posts/fragments-of-iceland.md
+- content/posts/basic-tips-to-mountain-biking.md
+- content/posts/basic-wall-climbing.md
 - content/posts/fox-village-in-japan.md
+- content/posts/fragments-of-iceland.md
+- content/posts/hello-world.md
 - content/posts/moving-to-new-york.md
+- content/posts/relax-in-nature.md
+- content/posts/what-isphotography.md
+- content/posts/working-from-home.md
