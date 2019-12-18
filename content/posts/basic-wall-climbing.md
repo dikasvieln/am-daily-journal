@@ -5,7 +5,7 @@ draft = true
 excerpt = ""
 layout = "post"
 subtitle = ""
-thumb_img_path = ""
+thumb_img_path = "/images/wall-climbing.jpg"
 title = "Basic Wall Climbing"
 
 +++
@@ -27,12 +27,14 @@ Here are first-time climber tips that you might know.
 
 * Your goal is not to reach the top of a route, your goal is to overcome challenges and to enjoy each success.
 * Remember that you need to focus on strengthening your leg and then your arm.
-* Taking time to learn the reasons you do things help you find success more quickly.
-* Watch more experienced climber to learn their techniques, but don't expect to replicate them right away.
+* Taking time to learn the reasons you do things helps you find success more quickly.
+* Watch more experienced climber learn their techniques, but don't expect to replicate them right away.
 * When you're ready to start on your own, take time to pick a good partner/mentor that's one of your most important climbing decisions.
 
 ***
 
 **Kids in Climbing Gyms**
 
-Many kids are natural climbers. Climbing gyms typically have classes to manage
+Many kids are natural climbers. Climbing gyms typically have classes to manage and for the children, as young as 6 years old there must be a few classes that must be taken. It is for sure that after your child has taken a few classes, then you can all go to the gym together and enjoy some family climbing time.
+
+[source1](https://www.rei.com/learn/expert-advice/indoor-climbing.html "source1") 
