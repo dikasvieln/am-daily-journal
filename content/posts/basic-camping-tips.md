@@ -30,4 +30,7 @@ When setting up the tent, try to pitch it an area where to ground are flat or cl
 **Make a camping essential list.  
 **The first time camper can a little bit challenging and of course an excitement of a new experience. And I recommend you to make your own checklist which equipment you need to cover up your first time experience as a camper.
 
-**Plan your meals beforehand.**
+**Plan your meals beforehand.  
+**Plan whatever you eat and how you're going to cook it can save a beginner camper a lot of time. Check your campsite rule to see if you're allowed to a campfire and research the local area for any pubs or restaurants where you can eat if things go to plan.
+
+[source1](https://www.mountainwarehouse.com/expert-advice/camping-guide-for-beginners "source1") [source2](https://www.rei.com/learn/expert-advice/camping-for-beginners.html "source2")
