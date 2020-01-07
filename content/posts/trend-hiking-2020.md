@@ -29,5 +29,5 @@ It must be the main tool before you go caving. Alongside exploring the cave, you
 **Stay warm**  
 The temperature on the cave can be often cold and wet. Don't wear cotton, you should wear synthetic materials that can dry quickly. You need to wear several layers and make sure the outer layer is abrasion-resistant, so it doesn't tear against sharp-rocks.
 
-**Don't drown  
-**Many caves can make different situations, and can a little bit tricky. And Sometimes weather outside the cave can be extremely changed. For example, if the cave near the beach it might be hight tidewater will come into the cave.
+**Don't drown**  
+Many caves can make different situations, and can a little bit tricky. And Sometimes weather outside the cave can be extremely changed. For example, if the cave near the beach when night comes it might be hight tidewater will come into the cave. Make sure to check the weather before you go.
