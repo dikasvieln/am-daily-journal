@@ -9,7 +9,7 @@ thumb_img_path = "/images/Wear-When-Hiking-During-Rainy-Days.jpg"
 title = "Hiking on rainy days!"
 
 +++
-Wanna go out on rainy days? or perhaps taking an overnight in the foothills? Backpacking through constant rain can still be quite fun if you're good at staying dry. And it's worth remembering that giant redwoods, a rainbow after the waterfall, and colorful wildflowers all made possible by the relentless pitter-patter of raindrops.
+﻿Wanna go out on rainy days? or perhaps taking an overnight in the foothills? Backpacking through constant rain can still be quite fun if you're good at staying dry. And it's worth remembering that giant redwoods, a rainbow after the waterfall, and colorful wildflowers all made possible by the relentless pitter-patter of raindrops.
 
 if you adopt a proper attitude, you can learn to love hiking in the rain. In this article, I'll give you 10 tips for taking backpacking trips through the rainy season.
 
@@ -26,7 +26,7 @@ So, even your jacket has a brimmed hood, it does have a poor job of keeping the 
 Waterproof shoes and boots keep your feet drier initially, making them a good option for colder weather. Renew the waterproofing at the beginning each season, or if you notice large dark spots forming when you splosh across wet terrain.
 
 **Pack dry clothes**  
-Extra clothing is already one of the ten essentials. Be sure dry socks is one of the extra in your bag.
+Extra clothing is already one of the ten essentials. Be sure dry socks are one of the extra in your bag.
 
 **Remember how to stay dry**  
 With the right mindset, a rainy-day is easier than drying out after your wet. Don't wait to throw on your rain shell, or to take cover in a full-on rain squall.
@@ -35,7 +35,7 @@ With the right mindset, a rainy-day is easier than drying out after your wet. Do
 Sometimes the weather at foothills can't be predicted. Stay up to date for any weather forecast, It will help you to stay cautious.
 
 **Keep an eye out for the lightning**  
-It puts on a great show, which you won't want to miss. However learn to take cover after the lightning.
+It puts on a great show, which you won't want to miss. However, learn to take cover after the lightning.
 
-**Constantly self-assess**  
-Add layers or grab a snack if you're starting to feel little cold. And gloomy light can sap your mental state. So poll
+**Ditch destination fever  
+**If a relentless storm makes things miserable or downright hazardous. 
