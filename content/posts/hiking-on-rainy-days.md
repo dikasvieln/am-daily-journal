@@ -19,23 +19,23 @@ Sometimes the long rainy weather can come thru into your clothes. So, I suggest 
 **Evaluate your rainwear**  
 I think you should wear some bright color raincoat. Some psychology says it can help brighten your mood on a relentlessly gray day. Also, if you are getting some emergency while taking hiking, your jacket can help the search team to identify your position.
 
-**Pack your rain cap  
-**So, even your jacket has a brimmed hood, it does have a poor job of keeping the rain off your glasses. A rain hat should have a broad brim. If you choose a ball cap style, then you can wear it under your rain jacket.
+**Pack your rain cap**  
+So, even your jacket has a brimmed hood, it does have a poor job of keeping the rain off your glasses. A rain hat should have a broad brim. If you choose a ball cap style, then you can wear it under your rain jacket.
 
-**Evaluate your footwear  
-**Waterproof shoes and boots keep your feet drier initially, making them a good option for colder weather. Renew the waterproofing at the beginning each season, or if you notice large dark spots forming when you splosh across wet terrain.
+**Evaluate your footwear**  
+Waterproof shoes and boots keep your feet drier initially, making them a good option for colder weather. Renew the waterproofing at the beginning each season, or if you notice large dark spots forming when you splosh across wet terrain.
 
-**Pack dry clothes  
-**Extra clothing is already one of the ten essentials. Be sure dry socks is one of extra in your bag.
+**Pack dry clothes**  
+Extra clothing is already one of the ten essentials. Be sure dry socks is one of the extra in your bag.
 
 **Remember how to stay dry**  
 With the right mindset, a rainy-day is easier than drying out after your wet. Don't wait to throw on your rain shell, or to take cover in a full-on rain squall.
 
-**Keep monitoring the weather  
-**Sometime the weather at foothills can't be predicted. Stay up to date for any weather forecast, It will help you to stay cautious.
+**Keep monitoring the weather**  
+Sometimes the weather at foothills can't be predicted. Stay up to date for any weather forecast, It will help you to stay cautious.
 
-**Keep an eye out for lightning  
-**It puts on a great show, which you won't want to miss. However learn to take cover after the lightning.
+**Keep an eye out for the lightning**  
+It puts on a great show, which you won't want to miss. However learn to take cover after the lightning.
 
-**Constantly self-assess  
-**Add a layers or grab a snack if you're starting to feel little cold. And gloomy light can sap you mental state. So poll 
+**Constantly self-assess**  
+Add layers or grab a snack if you're starting to feel little cold. And gloomy light can sap your mental state. So poll
