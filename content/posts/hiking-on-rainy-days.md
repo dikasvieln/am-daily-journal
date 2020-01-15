@@ -9,7 +9,7 @@ thumb_img_path = "/images/Wear-When-Hiking-During-Rainy-Days.jpg"
 title = "Hiking on rainy days!"
 
 +++
-﻿Wanna go out on rainy days? or perhaps taking an overnight in the foothills? Backpacking through constant rain can still be quite fun if you're good at staying dry. And it's worth remembering that giant redwoods, a rainbow after the waterfall, and colorful wildflowers all made possible by the relentless pitter-patter of raindrops.
+Wanna go out on rainy days? or perhaps taking an overnight in the foothills? Backpacking through constant rain can still be quite fun if you're good at staying dry. And it's worth remembering that giant redwoods, a rainbow after the waterfall, and colorful wildflowers all made possible by the relentless pitter-patter of raindrops.
 
 if you adopt a proper attitude, you can learn to love hiking in the rain. In this article, I'll give you 10 tips for taking backpacking trips through the rainy season.
 
@@ -35,7 +35,9 @@ With the right mindset, a rainy-day is easier than drying out after your wet. Do
 Sometimes the weather at foothills can't be predicted. Stay up to date for any weather forecast, It will help you to stay cautious.
 
 **Keep an eye out for the lightning**  
-It puts on a great show, which you won't want to miss. However, learn to take cover after the lightning.
+It puts on a great show, which you won't want to miss. However, learn to take cover after the lightning. 
 
-**Ditch destination fever  
-**If a relentless storm makes things miserable or downright hazardous. 
+**Ditch destination fever**  
+If a relentless storm makes things miserable or downright hazardous, turn around and call it a day. You'll still have tales to tell and time for extra hot cocoa or two to tell them over later.
+
+[source1]() [source2]()
