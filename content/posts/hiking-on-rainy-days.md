@@ -40,4 +40,4 @@ It puts on a great show, which you won't want to miss. However, learn to take co
 **Ditch destination fever**  
 If a relentless storm makes things miserable or downright hazardous, turn around and call it a day. You'll still have tales to tell and time for extra hot cocoa or two to tell them over later.
 
-[source1]() [source2]()
+[source1](https://www.rei.com/learn/expert-advice/hiking-in-the-rain.html "source1") [source2](https://www.outdoorresearch.com/blog/article/10-tips-for-making-rainy-backpacking-way-better "source2")
