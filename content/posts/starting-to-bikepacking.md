@@ -16,8 +16,8 @@ Your destination of trails can be reached via mountain trails or singletrack, so
 
 Some avid bikepacking enthusiasts may customize their bike for riding style or terrain, but most upgrades aim to minimize maintenance or maximize their comfort. If you are more get interested in more about choosing your right bikes, read my next post.
 
-**Carrying options for bikepacking  
-**Bikepacking carries the same gear as a backpacker but plus spare bike and tubes. Fortunately, you have more places to carry it on your bike. 
+**Carrying options for bikepacking**  
+Bikepacking carries the same gear as a backpacker but plus spare bike and tubes. Fortunately, you have more places to carry it on your bike.
 
 Unlike bikepacking, you don't want to carry a lot of weight. Instead, most of the weight must be placed as low as possible on your bike. Some of the typical gear setup for bikepacker beginner.
 
@@ -30,12 +30,22 @@ Unlike bikepacking, you don't want to carry a lot of weight. Instead, most of th
 
 There are many riders become an expert at lashing gear onto the bike with tie-down straps or repurposing items to meet their needs. For example, a tent can be attached to the front of the handlebar. Nearly everyone experiments to some degree to see gear setup work best.
 
-**Gear to bring bikepacking  
-**Your bikepacking gear should include the usual backpacking items, such as sleeping bags, a tent, stove, etc. But don't forget some addition need to included, such as helmet, tube/tire-repair kit, spares tubes and multi-tool that includes a chain tool. For extended trips, add chain lube, chain pins, a spare cable, and even a light lock for in-town resupply stops.
+**Gear to bring bikepacking**  
+Your bikepacking gear should include the usual backpacking items, such as sleeping bags, a tent, stove, etc. But don't forget some addition need to included, such as helmet, tube/tire-repair kit, spares tubes and multi-tool that includes a chain tool. For extended trips, add chain lube, chain pins, a spare cable, and even a light lock for in-town resupply stops.
 
 Keep in mind, if you are added more weight on your bike, you might having some slow steady pace. I suggest, aim to save weight when possible, but without compromising safety or comfort. Lightweight gear can make riding easier and more fun.
 
-**Bikepacking trip and planning-trips   
-**Wether you have a free weekend, month or more, a bikepacking journey might be just what you need to satisfy your craving adventure. But before you pack up and roll away, it can be well worth the effort to put solid well plan in place. FYI, bikepackers can cover 3 time more distance than a backpackers. But don't overdo, the distance take time to enjoy the scenery road. If you want to know more about bikepacking plan trips detail, read on my next article about planning trips for bikepackers.
+**Bikepacking trip and planning-trips**  
+Whether you have a free weekend, month or more, a bikepacking journey might be just what you need to satisfy your craving adventure. But before you pack up and roll away, it can be well worth the effort to put a solid good plan in place. FYI, bikepackers can cover 3 times more distance than backpackers. But don't overdo, the distance takes time to enjoy the scenic road. If you want to know more about bikepacking plan trips detail, read in my next article about planning trips for backpackers.
 
-**Bikepacking riding tips **
+**Bikepacking riding tips**  
+Bikepacking means that you'll carry your weight and weight gear. This requires additional riding precautions. Be sure to:
+
+Limit your speed, especially in downhill.  
+Allow longer stopping distances.  
+Allow more room for cornering.  
+Ride in an easier gear than usual to reduce your fatigue.
+
+Long rides can result in hand fatigue, but multiple grip positions on your handlebars can help. Consider getting a bike with drop bars. Or you can add bars ends, But you should upgrade your handgrip or use a multi-position bar.
+
+[source1]() [source2]()
