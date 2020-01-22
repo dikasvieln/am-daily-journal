@@ -48,4 +48,4 @@ Ride in an easier gear than usual to reduce your fatigue.
 
 Long rides can result in hand fatigue, but multiple grip positions on your handlebars can help. Consider getting a bike with drop bars. Or you can add bars ends, But you should upgrade your handgrip or use a multi-position bar.
 
-[source1]() [source2]()
+[source1](https://www.rei.com/learn/expert-advice/bikepacking.html "source1") [source2](https://bikepacking.com/bikepacking-101/ "source2")
