@@ -5,7 +5,7 @@ draft = true
 excerpt = ""
 layout = "post"
 subtitle = ""
-thumb_img_path = ""
+thumb_img_path = "/images/8.jpg"
 title = "The weathers guidance for backpacker"
 
 +++
@@ -28,27 +28,36 @@ If you are headed toward the summit with this type of cloud over it, foul weathe
 For your info, these are kinds of types of cloud that might be to know.
 
 **Warm Fronts**  
-Type of defined as warm air masses that gradually push out and replace cooler bodies of air. Warm fronts, which move at roughly half the speed of cold fronts, rarely produce violent weather,  but the precipitation they generate may linger for long periods. There is some type of warm front progress from thin, high-level cirrus cloud to low, or dense stratus cloud:
+Type of defined as warm air masses that gradually push out and replace cooler bodies of air. Warm fronts, which move at roughly half the speed of cold fronts, rarely produce violent weather,  but the precipitation they generate may linger for long periods. There is some type of warm front progress from thin, high-level cirrus cloud to low or dense stratus cloud:
 
 **Cirrus cloud  
-**These thin, streaky or wispy clouds sometimes resemble with brush stroke on a blue canvas high in the sky. 
+**These thin, streaky or wispy clouds sometimes resemble brush stroke on a blue canvas high in the sky.
 
-**Cirrocumulus cloud**   
-Arrive next, often appearing as small puff or rippled row, followed with cirrostatos cloud. Which tend to filled with ice crystal frequently wallpapering large area of blue sky with thin. bright sheet of clouds. 
+**Cirrocumulus cloud**  
+Arrive next, often appearing as small puff or rippled row, followed with cirrostratus cloud. Which tend to fill with ice crystal frequently wallpapering large area of blue sky with thin. a bright sheet of clouds.
 
-**Altostratus  
-**Some kind of smoky looking mid-level and nimbostratus cloud(gray, thick, low-level) come next and usually carry the precipitation, anything from a dizzle to steady rain or snow. 
+**Altostratus**  
+Some kind of smoky looking mid-level and nimbostratus cloud(gray, thick, low-level) come next and usually carry the precipitation, anything from a drizzle to steady rain or snow.
 
-**Cold Fronts  
-**Involves cold air masses that wedges under warm air pockets. Cloud fronts can develop rapidly and move swiftly, causing temperature to drop. Wind directions to shift and barometric pressure to fall.
+**Cold Fronts**  
+Involves cold air masses that wedges under warm air pockets. Cloud fronts can develop rapidly and move swiftly, causing the temperature to drop. Wind directions to shift and barometric pressure to fall.
 
-**Cumulus Cloud  
-**They are white puffy, fair-weather clouds. Should these puff continue to build upward, though, rain may come late in the day.
+**Cumulus Cloud**  
+They are white puffy, fair-weather clouds. Should these puff continue to build upward, though, rain may come late in the day.
 
-**Cumulonimbus Cloud  
-**Rise vertically and expand dramatically from their original white, puffy bases to soar high into upper atmosphere. On the other occasions their tops will flatten out into menacing, anvil-like shape. These classic "thunderhead" clouds foretell potentially severe weather. They are also form independent of cold fronts, blossoming in the afternoon hours of very warm days.
+**Cumulonimbus Cloud**  
+Rise vertically and expand dramatically from their original white, puffy bases to soar high into the upper atmosphere. On the other occasions, their tops will flatten out into menacing, anvil-like shape. These classic "thunderhead" clouds foretell potentially severe weather. They are also formed independent of cold fronts, blossoming in the afternoon hours of very warm days.
 
-**Tip:** if a late-day storms become pattern during your trip, rise early each and cover as much ground as you can during the days more stable hours.
+**Tip:** if late-day storms become a pattern during your trip, rise early each and cover as much ground as you can during the days more stable hours.
 
-**Barometric Pressure   
-**You may have probably heard your local meteorologist talk about barometric pressure, and it's actual easier to understand than you may think. Try throwing an altimeter* 
+**Barometric Pressure**  
+You may have probably heard your local meteorologist talk about barometric pressure, and it's actually easier to understand than you may think. Try throwing an altimeter into your hiking gear. 
+
+If you want to know about altimeter, It's about an instrument used to  measure the altitude of an object above a fixed level
+
+**Lastly, Don't Forget to Prep  
+**Even if you enter the wilderness with extensive knowledge of clouds, storms and cold fronts. And if you don't take an actual hiking gear then the knowledge will just go to waste.  
+  
+It's always best to check the official weather forecast before you go, but knowing what the change looks like can be a great skill on any hiking trip.
+
+[source1](https://www.rei.com/learn/expert-advice/weather-basics.html "source1") [source2](https://www.ems.com/f/ea-understanding-weather-when-hiking.html "source2") [source3](https://en.wikipedia.org/wiki/Altimeter "source3")
