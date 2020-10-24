@@ -19,3 +19,8 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+menu:
+  main:
+  - url: https://amdevblog.netlify.app/
+    name: My DevBlog
+    weight: 4
