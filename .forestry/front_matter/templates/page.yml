@@ -25,4 +25,5 @@ fields:
     required: true
 pages:
 - content/about.md
+- content/daily-journal.md
 - content/style-guide.md
