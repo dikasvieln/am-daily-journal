@@ -1,6 +1,7 @@
 +++
 content_img_path = ""
 date = 2020-11-01T17:00:00Z
+draft = true
 excerpt = ""
 layout = "post"
 subtitle = "journal coba"
