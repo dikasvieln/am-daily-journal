@@ -5,7 +5,7 @@ layout: contact
 menu:
   main:
     name: Contact
-    weight: 3
+    weight: 2
 
 ---
 Fill the form below to get in touch with me.

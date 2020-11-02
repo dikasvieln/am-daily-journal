@@ -23,4 +23,4 @@ menu:
   main:
   - url: https://amdevblog.netlify.app/
     name: My DevBlog
-    weight: 4
+    weight: 3

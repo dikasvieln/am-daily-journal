@@ -3,10 +3,6 @@ title: About Me
 subtitle: 'This is a short page about me '
 img_path: "/images/4.jpg"
 layout: page
-menu:
-  main:
-    name: About
-    weight: 2
 draft: true
 
 ---
