@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
-date = 2020-02-24T17:00:00Z
-draft = true
+date = 2020-11-04T17:00:00Z
 excerpt = ""
 layout = "post"
 subtitle = ""
