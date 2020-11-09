@@ -22,6 +22,10 @@ The paraglider is a little bit slower than the hang glider, which makes it easie
 **How to learn Paraglide**  
 The first thing you need before paraglide is having a paragliding pilot certification instruction program. Some initial training for beginners usually begins with some amount of ground basic, including how to wear a harness or some theories of flight as well as basic structure and operation of the glider.
 
-Students will learn how to control the basics of paraglider on the ground first, practicing how to control the parachute while taking off and controlling the wind 'overhead'.
+Students will learn how to control the basics of paraglider on the ground first, practicing how to control the parachute while taking off and controlling the winds 'overhead'.
+
+Firstly, students must know to practice launching and taking a small steps before going flight. You don't have to wear any special practical equipment. Afterall, the academy will provide you some with glider, harness and a helmet. But if you want to be extends wearing, the school might be recommended you to wear sturdy hiking boots and bring a pair of light gloves to keep your hands from being cut the lines. 
+
+For the first timer, you'll might end up to hitting ground over and over again. But the best to learn is through more practice. In addition to keep in mind, the higher altitude, the colder it gets.
 
 [source1](https://adventure.howstuffworks.com/paragliding1.htm "source1") [source2](https://en.wikipedia.org/wiki/Paragliding "paragliding wiki")
